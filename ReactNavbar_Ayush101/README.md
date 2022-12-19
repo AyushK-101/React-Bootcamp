@@ -1,6 +1,6 @@
 Steps performed:
 
-# First we installed React 
+# First we have to install React 
 
 Visited the reactjs.org website and found the start commands :
 
